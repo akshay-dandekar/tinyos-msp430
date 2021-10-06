@@ -1,0 +1,7 @@
+#ifndef _ADK_CONFIG_H_
+#define _ADK_CONFIG_H_
+
+#define ADK_CONFIG_NUM_TASKS 5
+#define ADK_CONFIG_TICKS_PER_SECOND 100
+
+#endif /* _ADK_CONFIG_H_ */
